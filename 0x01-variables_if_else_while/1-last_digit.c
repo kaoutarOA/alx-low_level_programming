@@ -3,8 +3,8 @@
 #include <stdio.h>
 /**
  * main - A function that print n value
- * Return: 0 (success) 
- *more headers goes there
+ *
+ * Return: 0 (success)
  */
 int main(void)
 {
