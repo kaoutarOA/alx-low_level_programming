@@ -1,10 +1,9 @@
-#include <stdio.h>
+#ifndef main_h
+#define main_h
 /**
  * main - Declare function
  *
  * Return: 0
  */
-int main(void)
-{
 int _putchar(char c);
-}
+#endif
